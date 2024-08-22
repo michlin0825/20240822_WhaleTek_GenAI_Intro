@@ -1,1 +1,1 @@
-# 20240822_WhaleTek_GenAI_Intro
+# 20240822_WhaleTeq_GenAI_Intro
